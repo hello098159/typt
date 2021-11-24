@@ -1,0 +1,1 @@
+print(typt("hello"))
